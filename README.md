@@ -109,7 +109,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 🔗 Live Demo
 
-Check out the live version of the website [here](#). *(Replace with your hosted link.)*
+Check out the live version of the website [https://siddhesh-wagh.github.io/platinum-fitness/](#).
 ```
-
-Feel free to copy and paste this into your `README.md` file! Let me know if you’d like to add more details or make further tweaks.
