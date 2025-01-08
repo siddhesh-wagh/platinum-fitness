@@ -56,3 +56,15 @@ The website is designed to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/platinum-fitness.git
+
+platinum-fitness/
+├── index.html          # Main HTML file
+├── css/
+│   ├── styles.css      # Custom styles
+│   └── bootstrap.min.css # Bootstrap CSS
+├── js/
+│   └── main.js         # Custom scripts (if applicable)
+├── images/             # Images folder
+├── fonts/              # Fonts folder (if applicable)
+└── README.md           # Project documentation
+
