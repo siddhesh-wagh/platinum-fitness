@@ -1,4 +1,6 @@
-```markdown
+
+---
+
 # Platinum Fitness
 
 Welcome to **Platinum Fitness**, a sleek and modern gym website designed to inspire and motivate fitness enthusiasts while providing easy access to essential information about our gym.
@@ -38,76 +40,49 @@ Welcome to **Platinum Fitness**, a sleek and modern gym website designed to insp
 
 ---
 
+## 📸 Project Screenshots
+
+---
+
 ## 🎯 Purpose
 
-The website is designed to:
+This website is designed to:
 - Showcase the **Platinum Fitness** brand and services.
 - Offer a user-friendly platform for gym enthusiasts to explore.
 - Highlight gym facilities, classes, and promotions in an engaging manner.
 
 ---
 
-## 🛠️ Installation & Usage
+## 🛠️ Steps to Run the Project in Visual Studio Code (VS Code)
 
 ### Prerequisites
-- Any modern browser (Chrome, Firefox, Safari, Edge).
-- Basic knowledge of HTML and CSS for customization.
 
-### Steps
-1. Clone the repository:
+- [Visual Studio Code](https://code.visualstudio.com/download) installed on your system.  
+- A modern web browser (e.g., Google Chrome, Firefox, etc.).
+
+---
+
+### Step 1: Install Visual Studio Code (VS Code)
+
+1. Visit the official [VS Code download page](https://code.visualstudio.com/download).  
+2. Download and install VS Code for your operating system.  
+3. Follow the installation instructions specific to your platform.  
+
+---
+
+### Step 2: Install the 'Live Server' Extension in VS Code
+
+1. Open **VS Code**.  
+2. Go to the **Extensions** tab on the left sidebar, or press `Ctrl + Shift + X` (Windows/Linux) or `Cmd + Shift + X` (macOS).  
+3. Search for `Live Server` and install the **Live Server** extension by **Ritwick Dey**.
+
+---
+
+### Step 3: Clone the Repository
+
+1. Open a terminal on your system (or use the terminal inside VS Code).  
+2. Clone this repository using the following command:  
    ```bash
    git clone https://github.com/siddhesh-wagh/platinum-fitness.git
    ```
-2. Open the `index.html` file in your browser.
-
-3. Customize the files as needed (CSS, HTML, etc.).
-
----
-
-## 📂 Project Structure
-
-```
-platinum-fitness/
-├── index.html          # Main HTML file
-├── css/
-│   ├── styles.css      # Custom styles
-│   └── bootstrap.min.css # Bootstrap CSS
-├── js/
-│   └── main.js         # Custom scripts (if applicable)
-├── images/             # Images folder
-├── fonts/              # Fonts folder (if applicable)
-└── README.md           # Project documentation
-```
-
----
-
-## 🌟 Highlights
-
-- **Elegant Aesthetics**: Combines modern fitness themes with professional design.
-- **Effortless Usability**: Intuitive interface for users of all experience levels.
-- **Scalable**: Easy to extend or integrate with other features.
-
----
-
-## 📸 Screenshots
-
-(Add a few screenshots here to showcase the website design and functionality.)
-
----
-
-## 🤝 Contribution
-
-Contributions, issues, and feature requests are welcome! Feel free to fork the repository and make your improvements.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## 🔗 Live Demo
-
-Check out the live version of the website [https://siddhesh-wagh.github.io/platinum-fitness/](#).
-```
+3. Navigate to the project
